@@ -1,0 +1,15 @@
+/Users/cfaortiz/Desktop/PersonalProjects/DotNetDebugging/bin/Debug/net5.0/DotNetDebugging.deps.json
+/Users/cfaortiz/Desktop/PersonalProjects/DotNetDebugging/bin/Debug/net5.0/DotNetDebugging.runtimeconfig.json
+/Users/cfaortiz/Desktop/PersonalProjects/DotNetDebugging/bin/Debug/net5.0/DotNetDebugging.runtimeconfig.dev.json
+/Users/cfaortiz/Desktop/PersonalProjects/DotNetDebugging/bin/Debug/net5.0/DotNetDebugging.dll
+/Users/cfaortiz/Desktop/PersonalProjects/DotNetDebugging/bin/Debug/net5.0/ref/DotNetDebugging.dll
+/Users/cfaortiz/Desktop/PersonalProjects/DotNetDebugging/bin/Debug/net5.0/DotNetDebugging.pdb
+/Users/cfaortiz/Desktop/PersonalProjects/DotNetDebugging/obj/Debug/net5.0/DotNetDebugging.csproj.AssemblyReference.cache
+/Users/cfaortiz/Desktop/PersonalProjects/DotNetDebugging/obj/Debug/net5.0/DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cfaortiz/Desktop/PersonalProjects/DotNetDebugging/obj/Debug/net5.0/DotNetDebugging.AssemblyInfoInputs.cache
+/Users/cfaortiz/Desktop/PersonalProjects/DotNetDebugging/obj/Debug/net5.0/DotNetDebugging.AssemblyInfo.cs
+/Users/cfaortiz/Desktop/PersonalProjects/DotNetDebugging/obj/Debug/net5.0/DotNetDebugging.csproj.CoreCompileInputs.cache
+/Users/cfaortiz/Desktop/PersonalProjects/DotNetDebugging/obj/Debug/net5.0/DotNetDebugging.dll
+/Users/cfaortiz/Desktop/PersonalProjects/DotNetDebugging/obj/Debug/net5.0/ref/DotNetDebugging.dll
+/Users/cfaortiz/Desktop/PersonalProjects/DotNetDebugging/obj/Debug/net5.0/DotNetDebugging.pdb
+/Users/cfaortiz/Desktop/PersonalProjects/DotNetDebugging/obj/Debug/net5.0/DotNetDebugging.genruntimeconfig.cache
